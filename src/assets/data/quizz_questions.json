@@ -1,0 +1,71 @@
+{
+  "title":"Qual personagem dos Studios Ghibli você seria ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual sua atividade preferida ?",
+      "options":[
+        {"id": 1, "name":"Viajar", "alias":"K"},
+        {"id": 2, "name":"Dormir", "alias":"T"},
+        {"id": 3, "name":"Nadar", "alias":"P"},
+        {"id": 4, "name":"Estar com amigos", "alias":"C"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual seu clima perfeito ?",
+      "options":[
+        {"id": 1, "name":"Outono", "alias":"T"},
+        {"id": 2, "name":"Verão", "alias":"P"},
+        {"id": 3, "name":"Primavera", "alias":"K"},
+        {"id": 4, "name":"Inverno", "alias":"C"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "O que você prefere ?",
+      "options":[
+        {"id": 1, "name":"Viver um grande amor", "alias":"K"},
+        {"id": 2, "name":"Brincar com amigos", "alias":"T"},
+        {"id": 3, "name":"Fazer uma viagem inesquecível", "alias":"C"},
+        {"id": 4, "name":"Curtir uma praia com os amigos", "alias":"P"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual profissão você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Arquiteta", "alias":"C"},
+        {"id": 2, "name":"Bióloga", "alias":"T"},
+        {"id": 3, "name":"Administradora", "alias":"K"},
+        {"id": 4, "name":"Professora", "alias":"P"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual o super-poder você escolheria ?",
+      "options":[
+        {"id": 1, "name":"Tele-transporte", "alias":"T"},
+        {"id": 2, "name":"Mudança de forma", "alias":"P"},
+        {"id": 3, "name":"Invisibilidade", "alias":"C"},
+        {"id": 4, "name":"Voar", "alias":"K"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Qual emogi te representa ?",
+      "options":[
+        {"id": 1, "name":"⭐", "alias":"C"},
+        {"id": 2, "name":"🌱", "alias":"T"},
+        {"id": 3, "name":"🌙", "alias":"K"},
+        {"id": 4, "name":"🌊", "alias":"P"}
+      ]
+    }
+  ],
+  "results":{
+    "T": "Você muito provavelmente seria o Totoro de Meu amigo Totoro!",
+    "C": "Você muito provavelmente seria a Chihiro de A Viagem de Chihiro!",
+    "K": "Você muito provavelmente seria a Kiki de O Seviço de Entregas da Kiki!",
+    "P": "Você muito provavelmente seria a Ponyo de Ponyo: Uma amizade que Veio do Mar!"
+  }
+}
